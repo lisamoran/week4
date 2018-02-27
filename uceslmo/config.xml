@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="BasicApp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Material Design Lite Dashboard Template App</name>
+    <name>Material Design Lite Dashboard With Map App</name>
     <description>
-        Material Design Lite dashboard template as PhoneGap app.
+        Material Design Lite dashboard template as PhoneGap app, with simple Leaflet map.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
