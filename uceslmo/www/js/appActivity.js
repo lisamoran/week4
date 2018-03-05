@@ -62,13 +62,6 @@ function loadEarthquakelayer(earthquakedata) {
 	mymap.fitBounds(earthquakelayer.getBounds());
 }
 
-		
-	
-// code to load map earthquake data after the page has loaded
-document.addEventListener('DOMContentLoaded', function() {
-	getEarthquakes();
-}, false);
-
 // code to add custom markers
 var testMarkerRed = L.AwesomeMarkers.icon({
 	icon: 'play',
